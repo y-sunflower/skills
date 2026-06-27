@@ -14,6 +14,21 @@ Click on the project to get installation instruction of the skill:
 <br>
 
 
+## Usage
+
+Once installed, your agent will **automatically** know when to use the skill, or you can mention it in a prompt using the `$skill-name` syntax:
+
+```bash
+Use $ninejs to make my plotnine chart interactive.
+```
+
+```bash
+Use $pyfonts to use better fonts for this chart.
+```
+
+<br>
+
+## Installation
 
 ### ninejs
 
@@ -29,6 +44,8 @@ claude plugin marketplace add y-sunflower/skills && claude plugin install ninejs
 codex plugin marketplace add y-sunflower/skills && codex plugin add ninejs@y-sunflower-skills
 ```
 
+---
+
 ### pyfonts
 
 - Claude Code
@@ -41,18 +58,4 @@ claude plugin marketplace add y-sunflower/skills && claude plugin install pyfont
 
 ```bash
 codex plugin marketplace add y-sunflower/skills && codex plugin add pyfonts@y-sunflower-skills
-```
-
-
-
-
-<br>
-
-## Usage
-
-Mention the installed skill in a prompt:
-
-```text
-Use $ninejs to make my plotnine chart interactive.
-Use $pyfonts to help style this matplotlib chart with pyfonts.
 ```
