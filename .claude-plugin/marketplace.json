@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "y-sunflower-skills",
+  "description": "Agent skills for Joseph Barbier's Python projects.",
+  "owner": {
+    "name": "Joseph Barbier",
+    "url": "https://github.com/y-sunflower"
+  },
+  "plugins": [
+    {
+      "name": "ninejs",
+      "description": "Use the public ninejs API to add browser interactivity to plotnine charts.",
+      "author": {
+        "name": "Joseph Barbier"
+      },
+      "source": "./plugins/ninejs",
+      "category": "productivity",
+      "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/ninejs"
+    },
+    {
+      "name": "pyfonts",
+      "description": "Use pyfonts' public API for matplotlib fonts.",
+      "author": {
+        "name": "Joseph Barbier"
+      },
+      "source": "./plugins/pyfonts",
+      "category": "productivity",
+      "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/pyfonts"
+    }
+  ]
+}
