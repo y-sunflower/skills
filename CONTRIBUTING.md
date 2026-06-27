@@ -68,3 +68,9 @@ claude plugin validate plugins/<project-name>
 ```
 
 Claude Code may warn that it ignores the shared manifest's `interface` field. That is expected; the shared manifest is intentionally written for both tools.
+
+
+## Good to know
+
+All projects are open source and should live in this Github org: https://github.com/y-sunflower.
+

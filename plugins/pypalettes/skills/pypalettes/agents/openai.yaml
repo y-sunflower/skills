@@ -1,0 +1,4 @@
+interface:
+  display_name: "pypalettes"
+  short_description: "Use pypalettes' public palette and colormap API"
+  default_prompt: "Use $pypalettes to pick colors for my chart."

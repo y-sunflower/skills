@@ -1,0 +1,27 @@
+{
+  "name": "pypalettes",
+  "version": "0.1.0",
+  "description": "Help coding agents use the public pypalettes API for Python color palettes and colormaps.",
+  "author": {
+    "name": "Joseph Barbier"
+  },
+  "repository": "https://github.com/y-sunflower/pypalettes",
+  "homepage": "https://y-sunflower.github.io/pypalettes/",
+  "keywords": [
+    "palette",
+    "colormap",
+    "matplotlib",
+    "seaborn",
+    "dataviz"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "pypalettes",
+    "shortDescription": "Use pypalettes with Python charts.",
+    "longDescription": "Guidance for using the public pypalettes API to load, customize, create, and preview color palettes and matplotlib colormaps.",
+    "developerName": "Joseph Barbier",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $pypalettes to pick colors for my chart."
+  }
+}

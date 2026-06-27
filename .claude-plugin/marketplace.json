@@ -26,6 +26,16 @@
       "source": "./plugins/pyfonts",
       "category": "productivity",
       "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/pyfonts"
+    },
+    {
+      "name": "pypalettes",
+      "description": "Use pypalettes' public API for Python color palettes and matplotlib colormaps.",
+      "author": {
+        "name": "Joseph Barbier"
+      },
+      "source": "./plugins/pypalettes",
+      "category": "productivity",
+      "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/pypalettes"
     }
   ]
 }
