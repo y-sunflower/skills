@@ -1,0 +1,4 @@
+interface:
+  display_name: "ninejs"
+  short_description: "Use ninejs with plotnine charts"
+  default_prompt: "Use $ninejs to make my plotnine chart interactive."
