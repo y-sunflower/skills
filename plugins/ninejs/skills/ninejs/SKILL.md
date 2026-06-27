@@ -1,6 +1,6 @@
 ---
 name: ninejs
-description: Use the public ninejs Python API to add browser interactivity to plotnine charts. Use when Codex needs to write or explain code with `interactive`, `css`, `javascript`, `save`, `to_html`, `to_iframe`, `show`, ninejs aesthetic mappings such as `tooltip`, `hover_group`, `hover_key`, or `on_click`, or integrations with notebooks, Quarto, marimo, Shiny for Python, Streamlit, or standalone HTML.
+description: Use the public ninejs Python API to add browser interactivity to plotnine charts. Use when an agent needs to write or explain code with `interactive`, `css`, `javascript`, `save`, `to_html`, `to_iframe`, `show`, ninejs aesthetic mappings such as `tooltip`, `hover_group`, `hover_key`, or `on_click`, or integrations with notebooks, Quarto, marimo, Shiny for Python, Streamlit, or standalone HTML.
 ---
 
 # ninejs

@@ -1,6 +1,6 @@
 ---
 name: pypalettes
-description: Use when Codex needs to answer questions, write examples, or modify Python code that uses pypalettes' public API for color palettes and matplotlib colormaps. Covers load_palette, load_cmap, create_cmap, show_cmap, palette customization options, and matplotlib/seaborn usage.
+description: Use when an agent needs to answer questions, write examples, or modify Python code that uses pypalettes' public API for color palettes and matplotlib colormaps. Covers load_palette, load_cmap, create_cmap, show_cmap, palette customization options, and matplotlib/seaborn usage.
 ---
 
 # pypalettes API
