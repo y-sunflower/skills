@@ -1,10 +1,1 @@
-{
-  "name": "ninejs",
-  "version": "0.1.0",
-  "description": "Help Claude Code use the public ninejs API for interactive plotnine charts.",
-  "author": {
-    "name": "Joseph Barbier",
-    "url": "https://github.com/y-sunflower"
-  },
-  "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/ninejs"
-}
+../.codex-plugin/plugin.json

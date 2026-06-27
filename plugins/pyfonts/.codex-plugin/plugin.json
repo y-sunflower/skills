@@ -1,18 +1,18 @@
 {
   "name": "pyfonts",
   "version": "0.1.0",
-  "description": "Pyfonts plugin",
+  "description": "Help coding agents use the public pyfonts API for matplotlib fonts.",
   "author": {
     "name": "Joseph Barbier"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "Pyfonts",
-    "shortDescription": "Use Pyfonts in Codex.",
-    "longDescription": "Pyfonts adds a local Codex plugin scaffold.",
+    "shortDescription": "Use pyfonts with matplotlib.",
+    "longDescription": "Guidance for using the public pyfonts API to load remote or local fonts, set matplotlib defaults, preview fonts, and manage the pyfonts cache.",
     "developerName": "Joseph Barbier",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Help me use Pyfonts."
+    "defaultPrompt": "Use $pyfonts-api to style my matplotlib chart."
   }
 }
