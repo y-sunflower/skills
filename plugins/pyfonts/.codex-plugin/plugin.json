@@ -13,6 +13,6 @@
     "developerName": "Joseph Barbier",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Use $pyfonts-api to style my matplotlib chart."
+    "defaultPrompt": "Use $pyfonts to style my matplotlib chart."
   }
 }

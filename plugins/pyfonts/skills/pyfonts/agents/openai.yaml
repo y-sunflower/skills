@@ -1,4 +1,4 @@
 interface:
   display_name: "PyFonts API"
   short_description: "Use pyfonts' public matplotlib font API"
-  default_prompt: "Use $pyfonts-api to write matplotlib code with pyfonts fonts."
+  default_prompt: "Use $pyfonts to write matplotlib code with pyfonts fonts."

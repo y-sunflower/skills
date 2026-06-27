@@ -1,5 +1,5 @@
 ---
-name: pyfonts-api
+name: pyfonts
 description: Use when Codex needs to answer questions, write examples, or modify Python code that uses pyfonts' public API for matplotlib fonts. Covers what pyfonts does, which public functions to import, available arguments/options, return values, provider-specific behavior for Google Fonts and Bunny Fonts, cache handling, previewing fonts, setting matplotlib defaults, and how these functions relate to each other.
 ---
 
