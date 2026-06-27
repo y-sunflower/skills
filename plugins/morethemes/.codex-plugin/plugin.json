@@ -1,0 +1,27 @@
+{
+  "name": "morethemes",
+  "version": "0.1.0",
+  "description": "Help coding agents use the public morethemes API for matplotlib themes.",
+  "author": {
+    "name": "Joseph Barbier"
+  },
+  "repository": "https://github.com/y-sunflower/morethemes",
+  "homepage": "https://y-sunflower.github.io/morethemes/",
+  "keywords": [
+    "matplotlib",
+    "themes",
+    "style",
+    "visualization",
+    "charts"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "morethemes",
+    "shortDescription": "Use morethemes with matplotlib.",
+    "longDescription": "Guidance for using the public morethemes API to apply, inspect, preview, and customize matplotlib themes.",
+    "developerName": "Joseph Barbier",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $morethemes to style my matplotlib chart."
+  }
+}

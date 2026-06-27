@@ -1,0 +1,4 @@
+interface:
+  display_name: "morethemes"
+  short_description: "Use morethemes' public matplotlib theme API"
+  default_prompt: "Use $morethemes to style my matplotlib chart."

@@ -36,6 +36,16 @@
       "source": "./plugins/pypalettes",
       "category": "productivity",
       "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/pypalettes"
+    },
+    {
+      "name": "morethemes",
+      "description": "Use morethemes' public API for matplotlib themes.",
+      "author": {
+        "name": "Joseph Barbier"
+      },
+      "source": "./plugins/morethemes",
+      "category": "productivity",
+      "homepage": "https://github.com/y-sunflower/skills/tree/main/plugins/morethemes"
     }
   ]
 }

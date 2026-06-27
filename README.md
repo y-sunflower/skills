@@ -9,6 +9,7 @@ A list of public skills for Yellow Sunflower open source projects.
 Click on the project to get installation instruction of the skill:
 
 - [`ninejs`](#ninejs): Bringing interactivity to plotnine. ninejs adds interactive behavior to plotnine charts with a minimal API. You can attach tooltips, hover grouping, and on click events, then export the result as a standalone HTML plot.
+- [`morethemes`](#morethemes): A collection of beautiful themes for matplotlib.
 - [`pypalettes`](#pypalettes): A dependency-free large (+2500) collection of colormaps and palettes for Python.
 - [`pyfonts`](#pyfonts): A simple and reproducible way of using fonts in matplotlib via Google font and Bunny font.
 
@@ -17,7 +18,7 @@ Click on the project to get installation instruction of the skill:
 
 ## Usage
 
-Once installed, your agent will **automatically** know when to use the skill, or you can mention it in a prompt using the `$skill-name` syntax:
+Once installed, your agent will **automatically** know when to use the skill, or you can mention it in a prompt (inside Codex / Claude Code) using the `$skill-name` syntax:
 
 ```bash
 Use $ninejs to make my plotnine chart interactive.
@@ -75,4 +76,20 @@ claude plugin marketplace add y-sunflower/skills && claude plugin install pypale
 
 ```bash
 codex plugin marketplace add y-sunflower/skills && codex plugin add pypalettes@y-sunflower-skills
+```
+
+---
+
+### morethemes
+
+- Claude Code
+
+```bash
+claude plugin marketplace add y-sunflower/skills && claude plugin install morethemes@y-sunflower-skills
+```
+
+- Codex
+
+```bash
+codex plugin marketplace add y-sunflower/skills && codex plugin add morethemes@y-sunflower-skills
 ```
