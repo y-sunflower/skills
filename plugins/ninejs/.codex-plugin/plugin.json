@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Help Codex use the public ninejs API for interactive plotnine charts.",
   "author": {
-    "name": "Local developer"
+    "name": "Joseph Barbier"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "ninejs",
     "shortDescription": "Use ninejs with plotnine charts.",
     "longDescription": "Guidance for using the public ninejs API to add browser interactivity to plotnine charts, including tooltips, hover groups, click handlers, CSS, JavaScript, HTML export, iframes, and notebook integrations.",
-    "developerName": "Local developer",
+    "developerName": "Joseph Barbier",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": "Use $ninejs to make my plotnine chart interactive."

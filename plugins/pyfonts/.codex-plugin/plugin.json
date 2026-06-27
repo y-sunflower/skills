@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Pyfonts plugin",
   "author": {
-    "name": "Local developer"
+    "name": "Joseph Barbier"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "Pyfonts",
     "shortDescription": "Use Pyfonts in Codex.",
     "longDescription": "Pyfonts adds a local Codex plugin scaffold.",
-    "developerName": "Local developer",
+    "developerName": "Joseph Barbier",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": "Help me use Pyfonts."
